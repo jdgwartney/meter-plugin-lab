@@ -83,16 +83,14 @@ The lab environment is a Linux instance hosted on bdc.bmc.com with a instance of
 
 - [5 - Write Plugin Script](ex5.md)
 
-- [6 - Plugin Configuration](ex6.md)
+- [6 - Plugin Icon](ex6.md)
 
-- [7 - Plugin Icon](ex5.md)
+- [7 - Plugin README](ex7.md)
 
-- [8 - Plugin README](ex6.md)
+- [8 - Plugin Deployment](ex8.md)
 
-- [9 - Plugin Deployment](ex7.md)
+- [9 - Add Plugin to Meter](ex9.md)
 
-- [9 - Add Plugin to Meter](ex8.md)
-
-- [9 - View Plugin Measurements](ex9.md)
+- [10 - View Plugin Measurements](ex10.md)
  
 
